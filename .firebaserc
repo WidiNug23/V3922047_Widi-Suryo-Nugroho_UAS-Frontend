@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "vrammer-11",
+    "y": "vrammer-11",
+    "vrammer": "vrammer-11",
+    "vrammer-new": "vrammer-new"
+  },
+  "targets": {},
+  "etags": {}
+}
